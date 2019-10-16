@@ -772,5 +772,7 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 
 **Name**:  V Srinivas     
 **SRN**: PES1UG19CS552      
-**Link to Profile**: [Srinivas-VJ](https://github.com/Srinivas-VJ) 
-**About Me**: New to Github
+**Link to Profile**: [Srinivas-VJ](https://github.com/Srinivas-VJ)  
+**About Me**: New to Github.
+
+
